@@ -234,11 +234,19 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
   ● Sloeber, IDE do Eclipse para o Arduino
   ● Proteus 8 Professional
   
-* __Diagrama esquemático e montagem prática__
+* __Diagrama esquemático__
 
 <div align="center">
   <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
 </div> 
+
+* __Montagem prática__
+
+<div align="center">
+  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+</div> 
+
+* __Modelo em 3D da Placa de circuito impresso__
 
 <div align="center">
   <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
