@@ -246,8 +246,11 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 
 <div align="center">
   <img src="Imagens/esquematico2.PNG" alt="esquematico" width="50%" height="20%"/></center>
-</div> 
+</div>
 
+<div align="center">
+  <img src="Imagens/esquematico1.PNG" alt="esquematico" width="50%" height="20%"/></center>
+</div> 
 
 
 * __Placa de circuito impresso__
