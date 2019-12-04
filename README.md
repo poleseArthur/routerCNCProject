@@ -237,17 +237,36 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 * __Diagrama esquemático__
 
 <div align="center">
-  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+  <img src="Imagens/esquematico4.PNG" alt="esquematico" width="50%" height="20%"/></center>
 </div> 
-
-* __Montagem prática__
 
 <div align="center">
-  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+  <img src="Imagens/esquematico3.PNG" alt="esquematico" width="50%" height="20%"/></center>
 </div> 
-
-* __Modelo em 3D da Placa de circuito impresso__
 
 <div align="center">
-  <img src="Imagens/spindle.PNG" alt="spindle" width="50%" height="20%"/></center>
+  <img src="Imagens/esquematico2.PNG" alt="esquematico" width="50%" height="20%"/></center>
 </div> 
+
+<div align="center">
+  <img src="Imagens/esquematico1.PNG" alt="esquematico" width="50%" height="20%"/></center>
+</div> 
+
+* __Placa de circuito impresso__
+
+<div align="center">
+  <img src="Imagens/pcblayout.PNG" alt="pcb" width="50%" height="20%"/></center>
+</div>
+
+<div align="center">
+  <img src="Imagens/pcbfrontal.PNG" alt="pcb" width="50%" height="20%"/></center>
+</div> 
+
+<div align="center">
+  <img src="Imagens/pcb.PNG" alt="pcb" width="50%" height="20%"/></center>
+</div> 
+
+* __Desenvolvedores do projeto__
+
+      **Arthur Polese** - [Arthur](https://github.com/felipe-tavares)
+      **Enzo Miozzo Petry** - [Enzo](https://github.com/enzomp)
