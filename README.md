@@ -232,6 +232,7 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 * __Softwares utilizados__
 
   ● Sloeber, IDE do Eclipse para o Arduino
+  
   ● Proteus 8 Professional
   
 * __Diagrama esquemático__
