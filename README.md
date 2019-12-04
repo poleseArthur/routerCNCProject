@@ -268,5 +268,5 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 
 * __Desenvolvedores do projeto__
 
-      **Arthur Polese** - [Arthur](https://github.com/felipe-tavares)
+      **Arthur Polese** - [Arthur](https://github.com/poleseArthur)
       **Enzo Miozzo Petry** - [Enzo](https://github.com/enzomp)
