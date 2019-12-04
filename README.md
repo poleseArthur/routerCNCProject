@@ -248,9 +248,7 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
   <img src="Imagens/esquematico2.PNG" alt="esquematico" width="50%" height="20%"/></center>
 </div> 
 
-<div align="center">
-  <img src="Imagens/esquematico1.PNG" alt="esquematico" width="50%" height="20%"/></center>
-</div> 
+
 
 * __Placa de circuito impresso__
 
@@ -268,5 +266,5 @@ dos sensores de referência (Home) e de proteção aberta (Cover Closed).
 
 * __Desenvolvedores do projeto__
 
-      **Arthur Polese** - [Arthur](https://github.com/poleseArthur)
-      **Enzo Miozzo Petry** - [Enzo](https://github.com/enzomp)
+    **Arthur Polese** - [Arthur](https://github.com/poleseArthur)
+    **Enzo Miozzo Petry** - [Enzo](https://github.com/enzomp)
